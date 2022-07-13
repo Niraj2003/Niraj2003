@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="200"/>
+  <img src="./background.png" />
   <h1 align="center">
   Hello there, I am Niraj 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
