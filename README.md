@@ -1,4 +1,11 @@
-<h3 align="center">A passionate Frontend developer & Coder </h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="100"/>
+  <h1 align="center">
+  Hello there, I am Niraj 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <h3 align="center">Student | Coder | Tech Enthusiast </h3>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
