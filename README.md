@@ -1,4 +1,4 @@
-<!-- <div id="header" align="center">
+<div id="header" align="center">
   <!<img src="./background.png" />
   <h1 align="center">
   Hello there, I am Niraj 
@@ -39,4 +39,4 @@
 
 
 
- -->
+
