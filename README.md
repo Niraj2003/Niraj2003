@@ -7,7 +7,7 @@
   <h3 align="center">Student | Coder </h3>
 </div>
 
-[![Niraj Amrutkar' GitHub stats](https://github-readme-stats.vercel.app/api?username=Niraj2003&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Niraj Amrutkar' GitHub stats](https://github-readme-stats.vercel.app/api?username=Niraj2003&count_private=true&show_icons=true&theme=merko)
 
 <h3 align="left">Connect with me:</h3>
 
