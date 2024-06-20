@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nirajamr03@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HNFnUOnXOMgVc1UDOY1pd00DCC5oR97T/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://niraj2003.github.io/cv/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
