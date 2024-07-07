@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niraj Amrutkar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<!-- <h3 align="center">A passionate Software Developer from India</h3> -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Engineer;Full+Stack+Web+Developer;Java+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj2003&label=Profile%20views&color=0e75b6&style=flat" alt="niraj2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj2003&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="niraj2003" /> </p>
 
-- 🔭 I’m currently working on [SpendiSmart](https://github.com/Niraj2003/spendismart)
 
 - 🌱 I’m currently learning **Spring Boot**
 
