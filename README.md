@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nirajamr03@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://niraj2003.github.io/cv/cv.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qk83RSevu81BqmVY_YDrozm0MGQ_F7EQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
