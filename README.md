@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nirajamr03@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qk83RSevu81BqmVY_YDrozm0MGQ_F7EQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/Niraj2003/resume/blob/main/Niraj_Amrutkar_SDE.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
