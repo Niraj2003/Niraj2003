@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj2003&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="niraj2003" /> </p>
 
+- 🌱 I’m currently learning **System Design, Infrastructure**
 
 - 📝 I regularly write articles on [Dev](https://dev.to/nrj-21)
 
